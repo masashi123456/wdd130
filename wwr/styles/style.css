@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&family=Raleway:wght@600&display=swap');
 
+=======
+>>>>>>> c129346497f8712e5652efef498cc69702339876
 div{
     width:1600px;
     margin: 0 auto;
@@ -12,6 +15,7 @@ div{
 body {
     background-color: #9DFFF9; 
 }
+<<<<<<< HEAD
 
 h1, h2, h3, h4{
     font-family: 'Raleway', sans-serif;
@@ -27,6 +31,8 @@ p,a{
     font-family: 'Oswald', sans-serif;
 }
 
+=======
+>>>>>>> c129346497f8712e5652efef498cc69702339876
 header {
     background-color:#64F58D(20,30,13, .7);
 }
@@ -56,4 +62,7 @@ footer p {
 footer p a:hover {
     text-decoration: underline;
 } 
+<<<<<<< HEAD
    
+=======
+>>>>>>> c129346497f8712e5652efef498cc69702339876
