@@ -1,0 +1,51 @@
+body{
+    background-color: #eec1e3;
+    text-align:300;
+    font-size:300 
+      
+}
+
+h1{
+    text-align: center;
+    margin: 6 auto;
+    color: #90C2E7;
+}
+
+#container
+{max-width: 800px ;
+min-width: none;}
+
+.emphasis{border: 1px solid #F67E7D
+}
+.actives{background-color: #90C2E7;
+    color: white}
+
+.room{
+    background-color: rgb(246, 199, 113);
+    border: 1px solid orange; }
+
+img{
+    width: 200px;
+    margin: 0 auto;
+    margin-bottom: 1rem;
+    display: block; 
+
+}
+
+p{
+    text-align: contener ;
+    width: 400px;
+    margin: 0 auto;
+    font-size: 1.5rem;
+    line-height: 1.5em;
+   
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav a:nth-of-type(4) {
+    color: red;
+
+}
