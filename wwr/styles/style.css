@@ -1,8 +1,10 @@
-<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&family=Raleway:wght@600&display=swap');
 
-=======
->>>>>>> c129346497f8712e5652efef498cc69702339876
+.logo{
+     margin-bottom: 3.0rem;
+
+}
+
 div{
     width:1600px;
     margin: 0 auto;
@@ -15,7 +17,6 @@ div{
 body {
     background-color: #9DFFF9; 
 }
-<<<<<<< HEAD
 
 h1, h2, h3, h4{
     font-family: 'Raleway', sans-serif;
@@ -27,22 +28,23 @@ h1, h2, h3, h4{
     font-size: 2em;
 }
 
+.msg {
+    background-color: #6f7364;
+    line-height: 3.5em;
+  }
+
 p,a{
     font-family: 'Oswald', sans-serif;
 }
 
-=======
->>>>>>> c129346497f8712e5652efef498cc69702339876
 header {
     background-color:#64F58D(20,30,13, .7);
 }
-nav a:hover {
-    background-color: #7A5C58;
-}
+
 
 nav a:hover {
-    background-color: black;
-    color: #d9c2a3;
+    background-color: rgb(186, 71, 121);
+    color: #fcba64;
 } 
 
 .icon {
@@ -51,9 +53,15 @@ nav a:hover {
 
 nav a {
     text-align: center;
-    color: #fcfbfb;
+    color: #fcba64;
     text-decoration: none;
-} 
+    padding: 35px;
+}
+
+footer{background-color: #6f7364;
+    line-height: 3.5em;
+    margin-top: 12rem;
+}
 
 footer p {
     font-size: 1.2em;
@@ -62,7 +70,20 @@ footer p {
 footer p a:hover {
     text-decoration: underline;
 } 
-<<<<<<< HEAD
    
-=======
->>>>>>> c129346497f8712e5652efef498cc69702339876
+.book, .join {
+    background-color: #d9c2a3;
+    color: black;
+    text-decoration: none;
+    font-size: 14px;
+    padding: 15px 30px;
+    margin-top: 450px;
+    border-radius: 4px;
+}
+
+.card-img {
+    border: 10px solid #d9c2a3;
+}
+main section img {
+    box-sizing: border-box;
+}
