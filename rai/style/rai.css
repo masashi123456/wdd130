@@ -1,0 +1,47 @@
+head{background-color: black;}
+
+.logo_link{margin-top: 0em;
+width: 10px;
+height: 10em;}
+
+
+nav{color:black ;
+    font-size: 1em;
+}
+
+nav a {
+    background-color: blue (186, 71, 121);
+    color: black;
+    text-decoration: none;
+    padding: 35px;
+    
+}
+
+nav a:hover {
+    background-color: rgb(186, 71, 121);
+    color: #fcba64;
+} 
+
+
+div{color:black ;
+    font-size: 2em;
+}
+
+
+
+.relative{
+position: relative;
+margin-top: 0;
+
+}
+
+.absolute{
+    position:absolute;
+    right: 0px;
+    top: 304px;
+}
+
+#content{background-color: rgb(222, 187, 92); 
+vertical-align: bottom;
+}
+    
