@@ -29,11 +29,17 @@ div{color:black ;
 
 
 
-.relative{
-position: relative;
-margin-top: 0;
+#hero{width: 15px;
 
 }
+
+#hero-msg {
+    grid-column: 2/3;
+    grid-row: 1/2;
+    margin-top: 100px;
+  }
+
+
 
 .absolute{
     position:absolute;
