@@ -47,6 +47,10 @@ div{color:black ;
     top: 304px;
 }
 
+.absolute img{
+    border-radius: 50%;
+    max-width: 100%}
+
 #content{background-color: rgb(222, 187, 92); 
 vertical-align: bottom;
 }
