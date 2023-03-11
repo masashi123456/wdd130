@@ -1,0 +1,54 @@
+header{
+    background-color: gray;
+    display:grid;
+    grid-template-columns: 140px auto;
+
+}
+
+
+img{width: 600px;
+
+}
+
+.logo{
+    width: 140px;
+    height: 100%;
+    padding:0;
+}
+
+nav a{
+    text-align:center;
+    justify-items: center;
+    padding-top: 55px;
+    
+}
+
+nav{
+    display:flex;
+    justify-content: space-around;
+}
+
+#hero{
+    display:grid;
+    grid-template-columns:repeat(10, 1fr) ;
+    grid-template-rows:repeat(6,1fr) ;
+
+}
+
+#hero-box{
+    grid-column: 1/11;
+    grid-row:1/7;
+}
+
+
+#hero-img{
+    width:100%;
+    
+}
+
+#hero-msg{
+    background-color: aqua;
+    grid-column: 4/9;
+    grid-row: 2/4;
+    
+}
