@@ -5,27 +5,6 @@ body{
       
 }
 
-
-
-h1{
-    text-align: center;
-    margin: 6 auto;
-    color: #90C2E7;
-}
-
-#container
-{max-width: 800px ;
-min-width: none;}
-
-.emphasis{border: 1px solid #F67E7D
-}
-.actives{background-color: #90C2E7;
-    color: white}
-
-.room{
-    background-color: rgb(246, 199, 113);
-    border: 1px solid orange; }
-
 img{
     width: 200px;
     margin: 0 auto;
@@ -41,7 +20,8 @@ img{
     border: 1px solid #f1f1f1;
     perspective: 1000px; /* Remove this if you don't want the 3D effect */
     display: block;
-    margin-bottom: 10rem;
+    margin: 0 auto;
+    
   }
   
   
@@ -80,6 +60,29 @@ img{
     transform: rotateY(180deg);
   }
 
+.introduction{
+    margin-top: 1.5rem;
+}
+
+h1{
+    text-align: center;
+    margin: 6 auto;
+    color: #90C2E7;
+}
+
+#container
+{max-width: 800px ;
+min-width: none;}
+
+.emphasis{border: 1px solid #F67E7D
+}
+.actives{background-color: #90C2E7;
+    color: white}
+
+.room{
+    background-color: rgb(246, 199, 113);
+    border: 1px solid orange; }
+
 
   
 p{
@@ -99,6 +102,8 @@ nav a:nth-of-type(4) {
     color: red;
 
 }
+
+
 
 
   
