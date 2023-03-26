@@ -66,12 +66,12 @@ img{
 
 h1{
     text-align: center;
-    margin: 6 auto;
+   
     color: #90C2E7;
 }
 
 #container
-{max-width: 800px ;
+{max-width: 600px ;
 min-width: none;}
 
 .emphasis{border: 1px solid #F67E7D
@@ -87,7 +87,7 @@ min-width: none;}
   
 p{
     text-align: contener ;
-    width: 400px;
+    width: 300px;
     margin: 0 auto;
     font-size: 1.5rem;
     line-height: 1.5em;
