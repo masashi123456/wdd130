@@ -219,7 +219,7 @@ footer{
   main{
     margin-top: 5rem;
   }
-  #titl1{
+  .titl1{
     font-style: italic;
     font-size: 1.5rem;
     font-weight: bold;
@@ -281,7 +281,61 @@ footer{
     border-top:solid 5px rgb(50, 2, 55);
   }
 
+  /*page2*/
 
+  .content4{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 200px;
+    column-gap: 50px;
+    margin:10rem;
+  }
+
+
+  .cardio{
+    grid-column:2/3;
+    grid-row:1/2;
+    width:100%
+    
+  }
+
+  .cardio2{
+    grid-column:2/3;
+    grid-row:2/3;
+    width:100%
+  }
+
+  .message5{
+    grid-column:1/2;
+    grid-row:1/2;
+    margin:0 auto;
+    display: flex;
+    align-items:center;
+    font-size:80%;
+    padding: 30px 16px;
+    color:rgb(31, 3, 47);
+    background:rgb(193, 231, 220,0.2);
+    border-bottom:solid 5px rgb(50, 2, 55);
+    border-top:solid 5px rgb(50, 2, 55);
+  }
+
+  .message6{
+    grid-column:1/2;
+    grid-row:2/3;
+    font-size:80%;
+    margin:0 auto;
+    display: flex;
+    align-items:center;
+    padding: 30px 16px;
+    color:rgb(31, 3, 47);
+    background:rgb(193, 231, 220,0.2);
+    border-bottom:solid 5px rgb(50, 2, 55);
+    border-top:solid 5px rgb(50, 2, 55);
+  }
+
+  h3{
+    font-size: 20px;
+  }
   
 
 
